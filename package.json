@@ -1,5 +1,5 @@
 {
-  "name": "copy-of-vcpu-to-pcpu-ratio-calculator",
+  "name": "vcpu-to-pcpu-ratio-calculator",
   "private": true,
   "version": "0.0.0",
   "type": "module",
