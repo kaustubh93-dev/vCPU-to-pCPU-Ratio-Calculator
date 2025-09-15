@@ -1,0 +1,5 @@
+{
+  "name": "Copy of vCPU to pCPU Ratio Calculator",
+  "description": "An intuitive calculator to determine the ratio of virtual CPUs (vCPUs) to physical CPUs (pCPUs). This tool helps infrastructure managers and cloud engineers optimize resource allocation, prevent contention, and plan for capacity scaling by providing instant feedback on CPU consolidation ratios.",
+  "requestFramePermissions": []
+}
